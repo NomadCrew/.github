@@ -22,7 +22,7 @@ NomadCrew follows a microservices architecture using modern cloud-native technol
 - **Frontend**: React Native
 - **Database**: PostgreSQL
 - **Cache**: Redis
-- **Message Queue**: RabbitMQ
+- **Message Queue**: Apache Kafka
 - **Infrastructure**: Kubernetes
 
 ## Project Structure
