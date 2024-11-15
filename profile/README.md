@@ -90,15 +90,15 @@ We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING
 
 ## Building in Public
 This project is being built in public, with regular updates and technical discussions shared on:
-- [LinkedIn Development Journey](https://linkedin.com/in/yourusername)
+- [LinkedIn Development Journey](https://linkedin.com/in/naqeebali-shamsi)
 - [Architecture Decision Records](docs/adr)
-- [Project Blog](https://dev.to/yourusername)
+- [Project Blog](https://dev.to/yourusername) (TBA)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-Project Lead - [Your Name](https://linkedin.com/in/yourusername)
+Project Lead - [Naqeebali Shamsi](https://linkedin.com/in/naqeebali-shamsi)
 
 Project Link: [https://github.com/NomadCrew/nomad-crew-backend](https://github.com/NomadCrew/nomad-crew-backend)
 
