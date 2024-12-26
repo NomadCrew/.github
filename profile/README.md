@@ -3,6 +3,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/NomadCrew/nomad-crew-backend)](https://goreportcard.com/report/github.com/NomadCrew/nomad-crew-backend)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![golangci-lint](https://github.com/NomadCrew/nomad-crew-backend/actions/workflows/golang-cilint.yml/badge.svg)](https://github.com/NomadCrew/nomad-crew-backend/actions/workflows/golang-cilint.yml)
 
 NomadCrew is an open-source group travel coordination platform that combines real-time location sharing, expense tracking, and travel planning into a single, cohesive mobile application.
 
